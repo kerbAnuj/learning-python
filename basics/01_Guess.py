@@ -1,5 +1,5 @@
 #01_Guess.py
-#Simple guesssing game 
+#Simple guessing game
 #Code dated 30th of March, 2026
 
 import random
