@@ -15,6 +15,6 @@ while num>0:
 if sm == copy:
     print("Armstrong Number")
 else:
-    print("Not an Armstrong Number")
+    print("Not an Armstrong Number")    
 
 
